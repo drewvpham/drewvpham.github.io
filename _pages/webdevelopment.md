@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /web-developement/
+permalink: /web-development/
 title: "Web Development Posts"
 author_profile: true
 header:
