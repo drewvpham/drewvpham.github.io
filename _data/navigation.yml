@@ -6,6 +6,8 @@ main:
     url: /data-science/
   - title: "Web Development"
     url: /web-development/
+  - title: "Data Wrangling Projects"
+    url: /data-wrangling/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
