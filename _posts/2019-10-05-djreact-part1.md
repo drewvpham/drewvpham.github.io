@@ -12,5 +12,7 @@ I stumbled across a tutorial walking through a Django and React web application.
 
 My only complaint on this video series is that the creator does not go into much detail of what things are and why its necessary. So I will need to review things and research further. But I suppose that is also a good thing!
 
+I did really appreciate the creator going into detail on how we can improve the app and the steps one can take such as adding a description field. The process is outlined and the viewer gets a high level overview of what was accomplished throughout the video.
+
 I am excited to brush up and carrying this forward in the future! More blog posts to come!
 
